@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Jorge Lucena *aka* 'jorgifumi'
 
-- 🔭 I’m iOS Software Engineer at [eDreams odigeo](https://www.edreamsodigeo.com)
+- 🔭 I’m iOS Software Engineer at [Wizeline](https://www.wizeline.com)
 - 🌱 I’m currently learning TDD and System design at [Essential Developer](https://iosacademy.essentialdeveloper.com)
 - 💬 Ask me about Apple development
 - 📫 How to reach me: <a href="https://twitter.com/jorgifumi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jorgifumi" height="30" width="30" /></a>
